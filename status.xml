@@ -1,0 +1,71 @@
+<InstrumentStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" schemaVersion="1.0.1">
+	<PackageID>LicArt62</PackageID>
+	<DeviceStatus>
+		<ModuleCategoryID>SAMPLER</ModuleCategoryID>
+		<IndexWithinRole>0</IndexWithinRole>
+		<RapidControlStatus>
+			<?xml version="1.0" encoding="utf-8"?>
+				<CombinedSamplerStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+					<ModuleState>Online</ModuleState>
+					<IsBusy>false</IsBusy>
+					<IsReady>true</IsReady>
+					<IsError>false</IsError>
+					<KeyLock>false</KeyLock>
+					<Status>0</Status>
+					<Vial>L-A-1</Vial>
+					<Volume>0</Volume>
+					<MaximumInjectionVolume>0</MaximumInjectionVolume>
+					<RackL>Tray54C</RackL>
+					<RackR>Tray54C</RackR>
+					<RackInf>0</RackInf>
+					<Buzzer>true</Buzzer>
+				</CombinedSamplerStatus>
+		</RapidControlStatus>
+	</DeviceStatus>
+	<DeviceStatus>
+		<ModuleCategoryID>QUATPUMP</ModuleCategoryID>
+		<IndexWithinRole>0</IndexWithinRole>
+		<RapidControlStatus>
+			<?xml version="1.0" encoding="utf-8"?>
+			<CombinedPumpStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+				<ModuleState>Online</ModuleState>
+				<IsBusy>false</IsBusy>
+				<IsReady>true</IsReady>
+				<IsError>false</IsError>
+				<KeyLock>false</KeyLock>
+				<Mode>ISO</Mode>
+				<Flow>0</Flow>
+				<PercentB>0</PercentB>
+				<PercentC>0</PercentC>
+				<PercentD>0</PercentD>
+				<MinimumPressureLimit>0</MinimumPressureLimit>
+				<MaximumPressureLimit>400.0330947751624</MaximumPressureLimit>
+				<Pressure>0</Pressure>
+				<PumpOn>false</PumpOn>
+				<Channel>0</Channel>
+			</CombinedPumpStatus>
+		</RapidControlStatus>
+	</DeviceStatus>
+	<DeviceStatus>
+		<ModuleCategoryID>COLCOMP</ModuleCategoryID>
+		<IndexWithinRole>0</IndexWithinRole>
+		<RapidControlStatus>
+			<?xml version="1.0" encoding="utf-8"?>
+			<CombinedOvenStatus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+				<ModuleState>Online</ModuleState>
+				<IsBusy>false</IsBusy>
+				<IsReady>true</IsReady>
+				<IsError>false</IsError>
+				<KeyLock>false</KeyLock>
+				<UseTemperatureControl>false</UseTemperatureControl>
+				<OvenOn>false</OvenOn>
+				<Temperature_Actual>26.22</Temperature_Actual>
+				<Temperature_Room>27.81</Temperature_Room>
+				<MaximumTemperatureLimit>0</MaximumTemperatureLimit>
+				<Valve_Position>0</Valve_Position>
+				<Valve_Rotations>0</Valve_Rotations>
+				<Buzzer>true</Buzzer>
+			</CombinedOvenStatus>
+		</RapidControlStatus>
+	</DeviceStatus>
+</InstrumentStatus>

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\file\\TZ\\DataProcessor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD4CC03-9772-44C3-93BD-A72ACB575063}|DataProcessor.csproj|d:\\file\\tz\\dataprocessor\\services\\dataprocessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD4CC03-9772-44C3-93BD-A72ACB575063}|DataProcessor.csproj|solutionrelative:services\\dataprocessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD4CC03-9772-44C3-93BD-A72ACB575063}|DataProcessor.csproj|d:\\file\\tz\\dataprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD4CC03-9772-44C3-93BD-A72ACB575063}|DataProcessor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD4CC03-9772-44C3-93BD-A72ACB575063}|DataProcessor.csproj|d:\\file\\tz\\dataprocessor\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EAD4CC03-9772-44C3-93BD-A72ACB575063}|DataProcessor.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD4CC03-9772-44C3-93BD-A72ACB575063}|DataProcessor.csproj|d:\\file\\tz\\dataprocessor\\services\\datatransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD4CC03-9772-44C3-93BD-A72ACB575063}|DataProcessor.csproj|solutionrelative:services\\datatransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD4CC03-9772-44C3-93BD-A72ACB575063}|DataProcessor.csproj|d:\\file\\tz\\dataprocessor\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EAD4CC03-9772-44C3-93BD-A72ACB575063}|DataProcessor.csproj|solutionrelative:nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD4CC03-9772-44C3-93BD-A72ACB575063}|DataProcessor.csproj|d:\\file\\tz\\dataprocessor\\services\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD4CC03-9772-44C3-93BD-A72ACB575063}|DataProcessor.csproj|solutionrelative:services\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD4CC03-9772-44C3-93BD-A72ACB575063}|DataProcessor.csproj|d:\\file\\tz\\dataprocessor\\models\\modulemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD4CC03-9772-44C3-93BD-A72ACB575063}|DataProcessor.csproj|solutionrelative:models\\modulemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NLog.config",
+              "DocumentMoniker": "D:\\file\\TZ\\DataProcessor\\NLog.config",
+              "RelativeDocumentMoniker": "NLog.config",
+              "ToolTip": "D:\\file\\TZ\\DataProcessor\\NLog.config",
+              "RelativeToolTip": "NLog.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-24T11:41:46.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ModuleModel.cs",
+              "DocumentMoniker": "D:\\file\\TZ\\DataProcessor\\Models\\ModuleModel.cs",
+              "RelativeDocumentMoniker": "Models\\ModuleModel.cs",
+              "ToolTip": "D:\\file\\TZ\\DataProcessor\\Models\\ModuleModel.cs",
+              "RelativeToolTip": "Models\\ModuleModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T23:51:42.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\file\\TZ\\DataProcessor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\file\\TZ\\DataProcessor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T23:27:44.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\file\\TZ\\DataProcessor\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\file\\TZ\\DataProcessor\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-23T23:37:08.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\file\\TZ\\DataProcessor\\Services\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Services\\ApplicationContext.cs",
+              "ToolTip": "D:\\file\\TZ\\DataProcessor\\Services\\ApplicationContext.cs",
+              "RelativeToolTip": "Services\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T23:30:18.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataTransferService.cs",
+              "DocumentMoniker": "D:\\file\\TZ\\DataProcessor\\Services\\DataTransferService.cs",
+              "RelativeDocumentMoniker": "Services\\DataTransferService.cs",
+              "ToolTip": "D:\\file\\TZ\\DataProcessor\\Services\\DataTransferService.cs",
+              "RelativeToolTip": "Services\\DataTransferService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA5wBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T21:54:11.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataProcessorService.cs",
+              "DocumentMoniker": "D:\\file\\TZ\\DataProcessor\\Services\\DataProcessorService.cs",
+              "RelativeDocumentMoniker": "Services\\DataProcessorService.cs",
+              "ToolTip": "D:\\file\\TZ\\DataProcessor\\Services\\DataProcessorService.cs",
+              "RelativeToolTip": "Services\\DataProcessorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T21:54:10.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
